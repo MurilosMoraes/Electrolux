@@ -1,4 +1,4 @@
-.container{
+.container {
     position: relative;
 }
 
@@ -14,4 +14,41 @@
     width: 25%;
     margin-left: 37.5%;
     margin-top: 40px;
+}
+
+.img-style {
+    background-color: rgb(216, 216, 216);
+    border-radius: 100px;
+    margin-top: 20%;
+    padding: 50px;
+    width: 18%;
+    margin-left: 41%;
+}
+
+.timer{
+    width: 20%;
+    margin-left: 40%;
+    color: gray;
+    text-align: center;
+}
+
+.button-style {
+    width: 20%;
+    margin-left: 40%;
+    color: rgb(163, 163, 163);
+    font-weight: bold;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    position: relative;
+    font-size: 40px;
+
+}
+
+ion-button {
+    --ion-color-primary: #3dc001;
+    --border-radius: 15px;
+    --padding-top: 20px;
+    --padding-bottom: 20px;
+    --padding-start: 1.1em;
+    --padding-end: 1.1em;
 }

@@ -1,0 +1,68 @@
+.container{
+    position: relative;
+}
+
+.arrow-back {
+    position: absolute;
+    width: 4%;
+    margin-left: 15%;
+    margin-top: 50px;
+}
+
+.logo-style {
+    position: absolute;
+    width: 25%;
+    margin-left: 37.5%;
+    margin-top: 40px;
+}
+
+.img-style{
+    width: 20%;
+    margin-left: 40%;
+    margin-top: 20%;
+    
+}
+.style-input {
+    color: gray;
+    font-size: 16px;
+    font-weight: 700;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 10px;
+}
+
+ion-button {
+    --ion-color-primary: #3dc001;
+    --border-radius: 15px;
+    --padding-top: 20px;
+    --padding-bottom: 20px;
+    --padding-start: 1.1em;
+    --padding-end: 1.1em;
+}
+
+ion-item {
+    --ion-item-background: #ffffff;
+    --border-width: 2px;
+    --border-radius: 15px;
+    --ion-item-border-color: #406289;
+
+}
+
+.name-input {
+    width: 50%;
+    margin-left: 25%;
+    color: rgb(163, 163, 163);
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 30px;
+}
+.button-style {
+    width: 20%;
+    margin-left: 55%;
+    color: rgb(163, 163, 163);
+    font-weight: bold;
+    margin-top: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
