@@ -1,0 +1,61 @@
+ion-button {
+    --ion-color-primary: #002d62;
+    --border-radius: 100px;
+    --padding-top: 0;
+    --padding-bottom: 0;
+    --padding-start: 1.1em;
+    --padding-end: 1.1em;
+}
+
+
+.arrow-back {
+    position: absolute;
+    width: 4%;
+    left: 5%;
+    top: 30px;
+}
+
+.title {
+    position: absolute;
+    color: #002d62;
+    left: 14%;
+    top: 15px;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.bt-clear {
+    position: absolute;
+    right: 15%;
+    top: 25px;
+}
+
+.menu {
+    width: 5%;
+    position: absolute;
+    right: 5%;
+    top: 30px;
+}
+.section-style{
+    color:#002d62;
+    font-size: 35px;
+    font-weight: 300;
+}
+.container{
+    width: 90%;
+    margin-top:15% ;
+    margin-left: 5%;
+
+}
+.relative{
+    position: relative;
+}
+.icon-style{
+    position: absolute;
+    font-size: 40px;
+    right: 10px ;
+    top: 0;
+}
+ion-icon{
+    color:#002d62;
+}

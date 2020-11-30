@@ -1,0 +1,66 @@
+.container{
+    position: relative;
+}
+
+.arrow-back {
+    position: absolute;
+    width: 4%;
+    margin-left: 15%;
+    margin-top: 50px;
+}
+
+ion-item{
+--inner-border-width: 0;
+}
+
+.logo-style {
+    position: absolute;
+    width: 25%;
+    margin-left: 37.5%;
+    margin-top: 40px;
+}
+.img-preliminary{
+    width: 35%;
+    margin-left:32.5%;
+    margin-top: 25%;
+}
+.container-radio{
+    margin-top: 50px;
+    display: flex;
+    flex:1;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    align-self: center;
+}
+
+.flex{
+    display: flex;
+}
+
+.text-radio{
+    font-size: 30px;
+    color: royalblue;
+    font-weight: 300;
+
+}
+
+ion-radio{
+    --ion-color-step-400:#002d62;
+}
+
+.radio{
+    width: 45px;
+    height: 45px;
+}
+
+ion-button{
+    --ion-color-primary: #002d62;
+    --border-radius:100px;
+    --padding-top: 0;
+    --padding-start: 2.5em;
+    --padding-end: 2.5em;
+    --padding-bottom: 0;
+}
+
+
